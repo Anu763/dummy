@@ -1,0 +1,6 @@
+npm install
+
+npm run server
+
+echo "Now Swerver is running..!
+"
